@@ -34,7 +34,7 @@
 <configuration>
 <archive>
 <manifest>
-<mainClass>com.test.deploy</mainClass>
+<mainClass>com.test.deploy.App</mainClass>
 </manifest>
 </archive>
 </configuration>
