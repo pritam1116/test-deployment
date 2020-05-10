@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Deploy successfully!" );
+    	String name="john";
+        System.out.println( "Deploy successfully! "+name );
     }
 }
