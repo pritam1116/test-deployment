@@ -34,7 +34,7 @@
 <configuration>
 <archive>
 <manifest>
-<mainClass>com.roufid.tutorials.AppTest</mainClass>
+<mainClass>com.test.deploy</mainClass>
 </manifest>
 </archive>
 </configuration>
